@@ -1,7 +1,7 @@
 # Hi there! I'm Aniket Mali 👋
 
 ### About Me
-I am currently pursuing an Integrated MSc in Applied Mathematics at IIT Roorkee, where I have been honing my skills in data structures, algorithms, and programming. With a strong foundation in these areas, I have actively ventured into the realm of data analysis and machine learning.
+I completed my Integrated MSc in Applied Mathematics from IIT Roorkee, where I have been honing my skills in data structures, algorithms, and programming. With a strong foundation in these areas, I have actively ventured into the realm of data analysis and machine learning.
 
 ### Experience
 In my recent role as a Data Analyst/Scientist at Pantech Solutions, I developed advanced analytics projects focusing on diverse datasets, including breast cancer analysis, engine energy prediction, movie recommendation systems, and web ad optimization. Leveraging my expertise in regression, SVM, k-means clustering, decision tree classifiers, and reinforcement learning, I gained valuable insights and crafted effective solutions from complex datasets.
